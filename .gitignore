@@ -1,0 +1,7 @@
+*.idea
+*META-INF
+*out
+*target
+*.iml
+*.uml
+*.png
